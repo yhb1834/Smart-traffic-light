@@ -1,6 +1,6 @@
-# smartraffic smart traffic light project
+# 스마트레픽 조 스마트 신호등 제작 프로젝트
+한이음 멘토링 프로젝트 스마트레픽 조의 이미지 인식 기술을 사용한 스마트 신호등 제작 프로젝트입니다.
 
-smartraffic smart traffic light project
 
 # 기능 구현 목록
 - 라즈베리 파이로 led 신호 제어

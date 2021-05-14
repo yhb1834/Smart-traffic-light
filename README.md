@@ -9,3 +9,17 @@
     - 자율주행 차량 이미지 학습
 - 스마트폰을 이용하여 라즈베리 파이로 통신 기능 구현
 - 응급 차량 및 노약자 신호 앱 제작
+
+# 교통약자 도우미
+- 교통약자의 보행 중 안전을 도와 주는 애플리케이션
+- MVVM Pattern + Retrofit + Hilt
+
+## Libraries
+- Jetpack
+    - LiveData
+    - ViewModel
+    - DataBinding
+    - ViewBinding
+    - Navigation
+- Retrofit
+- Hilt

@@ -1,11 +1,15 @@
 import RPI.GPIO as GPIO
 from time import sleep
 
+green=17
+
+#set gpio in bcm mode
 GPIO.setmode(GPIO.BCM)
-GPIO.setup(,GPIO.OUT)
+
+GPIO.setup(green,GPIO.OUT)
 
 while(True):
-    GPIO.output(17,False)
+    GPIO.output(green,False)
     time.sleep(2)
-    GPIO.output(17,True)
+    GPIO.output(green,True)
     time.sleep(2)
